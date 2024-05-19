@@ -84,9 +84,9 @@ This application is a Task List that allows users to create, read, update, and d
 
 ## Uso / Usage
 
-Una vez que ambos servidores estén en funcionamiento, abre tu navegador y navega a `http://localhost:3000` para interactuar con la aplicación de tareas.
+Una vez que ambos servidores estén en funcionamiento, abre tu navegador y navega a `http://localhost:5173` para interactuar con la aplicación de tareas.
 
-Once both servers are running, open your browser and navigate to `http://localhost:3000` to interact with the Task List application.
+Once both servers are running, open your browser and navigate to `http://localhost:5173` to interact with the Task List application.
 
 ## API
 
